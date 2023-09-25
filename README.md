@@ -3,3 +3,4 @@ Netflix is one of the most popular streaming services in the world, with a massi
 
 As we have already worked with Jupyter notebook in our previous project so, in this project we will be using again Jupyter for analysis Netflix data.
 
+![Uploading image.png…]()
